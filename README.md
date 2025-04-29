@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO -- 1 : Cloud-account-set-up-and-services
 ## REG NO : 212223010025
 ## NAME : BASKAR J
 # Aim:
